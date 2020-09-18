@@ -56,5 +56,11 @@ var reduceFunction = function(ord_date, value){
 };
 
 db.orders.mapReduce(mapFunction, reduceFunction, {out: "map_reduce_example"});
-
 ```
+### The result and reasoning:
+![My map-reduce result](expass-3-assets/find-most-sold-item-by-date-result.png)
+This is a map reduce operation for finding the most sold item for each given date. This operation can be useful to stores so that they can look at the data to find out which items are being sold most of in a day. Then the sellers are able to plan for next time how much they need to have in stock, so that they don't run out.
+Take for example around 17th of may, it would sell a lot of cream for cakes. This gives valuable data on approximately how much cream should be expected to sell the next 17th of may, and the store can place their order on cream accordingly.
+
+In this example, I used the test data from the example. And we can see that apples and oranges were sold the most of the 1st of march, while oranges were sold most of the 23rd of march, at a total quantity of 10. So as you can see, if there is a tie between sold items both will be given.
+
