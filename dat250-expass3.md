@@ -64,3 +64,4 @@ Take for example around 17th of may, it would sell a lot of cream for cakes. Thi
 
 In this example, I used the test data from the example. And we can see that apples and oranges were sold the most of the 1st of march, while oranges were sold most of the 23rd of march, at a total quantity of 10. So as you can see, if there is a tie between sold items both will be given.
 
+*No pending issues!*
