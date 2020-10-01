@@ -15,6 +15,10 @@ public class Todos {
     private String summary;
     private String description;
 
+    public Todos(){
+        this.summary = "empty summary";
+        this.description = "empty description";
+    }
     public Todos(String summary, String description){
         this.summary = summary;
         this.description = description;
