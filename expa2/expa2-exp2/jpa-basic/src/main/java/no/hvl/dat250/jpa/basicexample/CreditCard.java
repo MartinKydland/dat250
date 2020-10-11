@@ -10,8 +10,6 @@ public class CreditCard {
     private int number;
     private int limit;
     private int balance;
-
-    @OneToOne
     private PinCode pinCode;
 
     @ManyToOne
@@ -39,6 +37,14 @@ public class CreditCard {
 
     public void getBalance(int balance) {
         this.balance = balance;
+    }
+
+    public PinCode getPinCode() {
+        return pinCode;
+    }
+
+    public void setPinCode(PinCode pinCode) {
+        this.pinCode = pinCode;
     }
 
     @Override

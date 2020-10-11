@@ -1,6 +1,7 @@
 package no.hvl.dat250.jpa.basicexample;
 
 import javax.persistence.*;
+import java.util.List;
 
 @Entity
 public class Person {
@@ -10,17 +11,34 @@ public class Person {
     private String name;
 
     @ManyToMany
-    private Address adress;
+    private List<Address> address;
 
     @OneToMany
-    private CreditCard creditCard;
+    @JoinColumn
+    private List<CreditCard> creditCard;
 
-    public String getSummary() {
+    public String getName() {
         return name;
     }
 
-    public void setSummary(String summary) {
-        this.name = summary;
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public List<Address> getAddress() {
+        return address;
+    }
+
+    public void setAddress(List<Address> address) {
+        this.address = address;
+    }
+
+    public List<CreditCard> getCreditCard() {
+        return creditCard;
+    }
+
+    public void setCreditCard(List<CreditCard> creditCard) {
+        this.creditCard = creditCard;
     }
 
     @Override

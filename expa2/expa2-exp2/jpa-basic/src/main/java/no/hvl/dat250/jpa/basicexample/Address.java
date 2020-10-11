@@ -1,6 +1,7 @@
 package no.hvl.dat250.jpa.basicexample;
 
 import javax.persistence.*;
+import java.util.List;
 
 @Entity
 public class Address {
@@ -9,6 +10,9 @@ public class Address {
     private Long id;
     private String street;
     private int number;
+
+    @ManyToMany(mappedBy = "address")
+    private List<Person> person;
 
     public String getStreet() {
         return street;
@@ -24,6 +28,14 @@ public class Address {
 
     public void setNumber(int number) {
         this.number = number;
+    }
+
+    public List<Person> getPerson() {
+        return person;
+    }
+
+    public void setPerson(List<Person> person) {
+        this.person = person;
     }
 
     @Override
