@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ecb54e9-4563-4764-a962-0917c09cd73a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../expa4/expa4-exp1/dat250-sparkjava-counter-master/.idea/dat250-sparkjava-counter-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../expa4/expa4-exp1/dat250-sparkjava-counter-master/counters/counters/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../expa4/expa4-exp1/dat250-sparkjava-counter-master/counters/counters/counters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../expa4/expa4-exp2/.idea/expa4-exp2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../expa4/expa4-exp2/counters/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../expa4/expa4-exp2/counters/counters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../expa4/expa4-exp2/counters/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../expa4/expa4-exp2/counters/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/counters.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/main/java/no/hvl/dat110/rest/counters/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/main/java/no/hvl/dat110/rest/counters/Counters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/main/java/no/hvl/dat110/rest/counters/GetRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/main/java/no/hvl/dat110/rest/counters/PutRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/main/java/no/hvl/dat110/rest/counters/TCPGetRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/main/java/no/hvl/dat110/rest/counters/TCPPutRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/main/java/no/hvl/dat110/rest/counters/Todos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/test/java/no/hvl/dat110/rest/counters/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/src/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/classes/no/hvl/dat110/rest/counters/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/classes/no/hvl/dat110/rest/counters/Counters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/classes/no/hvl/dat110/rest/counters/GetRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/classes/no/hvl/dat110/rest/counters/PutRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/classes/no/hvl/dat110/rest/counters/TCPGetRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/classes/no/hvl/dat110/rest/counters/TCPPutRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/classes/no/hvl/dat110/rest/counters/Todos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/counters-0.0.1-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/counters-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/surefire-reports/TEST-no.hvl.dat110.rest.counters.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/surefire-reports/no.hvl.dat110.rest.counters.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counters/target/test-classes/no/hvl/dat110/rest/counters/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h8n4i4otN4VmHoH12sby8f3L2i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="no.hvl.dat250.jpa.basicexample" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat250.jpa.basicexample.Main" />
+      <module name="jpa-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat250.jpa.basicexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ecb54e9-4563-4764-a962-0917c09cd73a" name="Default Changelist" comment="" />
+      <created>1599401397279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599401397279</updated>
+    </task>
+    <task id="LOCAL−00001" summary="Fixed persistence.xml so that the database should be created on my computer">
+      <created>1599591980608</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1599591980608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed persistence.xml so that the database should be created on my computer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed persistence.xml so that the database should be created on my computer" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599401494480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599401494480" />
+    <state x="561" y="115" key="CommitChangelistDialog2" timestamp="1599591979807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599591979807" />
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1602444784720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602444784720" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1602444784720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602444784720" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1602444784719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602444784719" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1602444784720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602444784720" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1599591986108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599591986108" />
+    <state x="685" y="141" key="new project wizard" timestamp="1602440782061">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602440782061" />
+  </component>
+</project>

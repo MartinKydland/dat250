@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Oct 11 21:33:05 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0175-1926-f7cc-000007082b28 
+on database directory C:\Users\Kydla\Documents\persistence\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@78308db1 
+Loaded from file:/C:/Users/Kydla/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=JetBrains s.r.o
+java.runtime.version=11.0.5+10-b520.30
+user.dir=C:\Users\Kydla\Documents\dat250\expa2\expa2-exp1\jpa-basic
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
