@@ -14,3 +14,4 @@ Second time around, no issues. :heart:
 ![Inspecting tables from experiment 2](expa2/assets/viewing-all-tables-bank.png)
 
 Using ij, I successfully inspected which tables were created using the `show indexes from` NoSQL command. Only using `show tables` would view many other generated tables we are not interested in.
+The tables looked as anticipated.
